@@ -1,1 +1,1 @@
-my second commit
+second week of programming
